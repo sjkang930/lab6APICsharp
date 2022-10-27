@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{56422624-6C9F-49B5-B31B-82C92A00144A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="appsettings.json" Line="9" Column="40" />
+      <File FileName="Models/City.cs" Line="10" Column="15" />
+      <File FileName="Models/Province.cs" Line="16" Column="40" />
+      <File FileName="Data/SeedData.cs" Line="4" Column="1" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="16" Column="39" />
+      <File FileName="Program.cs" Line="3" Column="14" />
+      <File FileName="Data/Migrations/ProvinceDb/20221005232639_M1.cs" Line="11" Column="41" />
+      <File FileName="Data/Migrations/ProvinceDb/20221005232639_M1.Designer.cs" Line="1" Column="1" />
+      <File FileName="Controllers/CityController.cs" Line="106" Column="20" />
+      <File FileName="Controllers/ProvinceController.cs" Line="102" Column="21" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="37" Column="19" />
+      <File FileName="Views/City/Create.cshtml" Line="21" Column="35" />
+      <File FileName="Controllers/HomeController.cs" Line="13" Column="26" />
+      <File FileName="Views/City/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Home/Index.cshtml" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="provinceCity" expanded="True">
+            <Node name="provinceCity" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="City" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.provinceCity PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
